@@ -2,6 +2,8 @@
 
 ![Cover Image](https://github.com/Brianhulela/bollinger_bands/blob/master/TSLA_bollinger_bands_buy_sell.png)
 
+For more details on the strategy and its analysis, you can read the full article on [Medium](https://medium.com/@brianhulela/understanding-bollinger-bands-143938087d0e).
+
 
 In this repository, we explore the implementation of the **Bollinger Bands** strategy in Python, a popular technical analysis tool used in stock trading. The key objective of this project is to generate buy and sell signals based on the stock's price movements in relation to the Bollinger Bands, and simulate a basic trading strategy using these signals.
 
